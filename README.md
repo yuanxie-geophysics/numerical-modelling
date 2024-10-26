@@ -26,3 +26,5 @@ HW9:  Temperature eq in Lagrangian model: (1) explicit; (2) implicit
 HW10: Calculate a density anormaly in mantle lithosphere with variable viscosity, staggered nodesa; two phase flow
 
 HW11: Solving stocks and continuity equation using FD with staggered grid and markers in cell 2D; Sticky air Free surface; Runge Kutta; with thermal mechanical
+
+Final Project: Slab break-off process simulations
