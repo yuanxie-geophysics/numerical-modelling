@@ -11,8 +11,6 @@ HW2:  1) Solving of 2D poission equation using Gauss-Seidel Iteration d2PHI/dx^2
       
 HW3:  Calculating a density anormaly in mantle lithosphere
 
-HW4:  
-
 HW5:  Calculating a density anormaly in mantle lithosphere with variable viscosity in staggered nodes
 
 HW6:  Solving 1D advection equation using ark in cell and finite differences in time
